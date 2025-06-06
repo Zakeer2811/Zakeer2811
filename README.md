@@ -103,16 +103,24 @@ const jakir = {
 ## 💻 LeetCode Stats
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/MD__JAKIR1128__?theme=dark&font=Nunito&ext=heatmap" alt="LeetCode Stats"/>
+  <!-- 1. LeetCode Stats (LeetCard) -->
+  <img
+    src="https://leetcard.jacoblin.cool/MD__JAKIR1128__?theme=dark&font=Nunito&ext=heatmap"
+    alt="LeetCode Stats"
+  />
 </div>
 
 <div align="center">
-  <img src="https://leetcode.card/MD__JAKIR1128__?theme=dark&font=baloo&ext=heatmap" alt="LeetCode Problem Stats"/>
+  <!-- 2. Dynamic “Worth” badge (Shields.io + proxy→LeetCode-Stats API) -->
+  <img
+    src="https://img.shields.io/endpoint?
+      url=https%3A%2F%2FYOUR_PROXY_URL%2Fworth%2FMD__JAKIR1128__&
+      label=LeetCode%20Worth&
+      query=$.profileWorthUSD"
+    alt="LeetCode Worth"
+  />
 </div>
 
-<div align="center">
-  <img src="https://leetcode-badge.vercel.app/api/MD__JAKIR1128__" alt="LeetCode Worth Badge"/>
-</div>
 
 ## 🏆 GitHub Trophies
 
