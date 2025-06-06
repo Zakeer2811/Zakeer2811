@@ -142,4 +142,11 @@ const jakir = {
   **Thanks for visiting! Let's connect and build something amazing together! 🚀**
   
 </div>
-![snake gif](https://github.com/Zakeer2811/Zakeer2811/blob/output/github-snake-dark.svg)
+
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/Zakeer2811/Zakeer2811/output/github-snake-dark.svg"
+    alt="GitHub Snake (Dark)"
+  />
+</p>
