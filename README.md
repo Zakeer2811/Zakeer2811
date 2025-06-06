@@ -45,22 +45,19 @@ const jakir = {
 
 </div>
 
-## 🛠️ Lines Compiled of My Code & Character
+## 💭  Lines Compiled of My Code & Character
 
-> *“I may not have started with the best, but I’m building something better—line by line, block by block, byte by byte.”*  
-> *“Some chase greatness, I debug my way into it.”*  
 > *“The silence between stammers taught me more about strength than any loud speech ever did.”*  
-> *“I don’t fear starting from scratch—every fresh line is a chance to write a better version of myself.”*  
-> *“If life had a GitHub repo, I’d commit less regret and push more peace.”*  
-> *“My code and I have one thing in common—we both throw errors under pressure.”*  
-> *“I don’t just write programs. I solve puzzles that teach machines—and sometimes myself—how to think better.”*  
-> *“Success isn’t a sprint or a marathon—it’s a recursive function that returns ‘better’ every time I call it.”*  
-> *“Why wait for the perfect plan when you can prototype your potential today?”*  
-> *“I’d rather build a solution and fail than spend forever debugging a fear I never ran.”*  
+> *“I don’t chase perfection—I ship progress.”*  
+> *“Lines don’t just make programs. Some build people—and I’m compiling mine, one block at a time.”*  
+> *“I’m not trying to be the best—I’m just trying to be better than I was yesterday’s build.”*  
+> *“Even when I run into errors, I don't halt—I rewrite.”*  
 
 <br>
 
-> 📌 *Each line here is a piece of me—written not just in code, but in clarity.*
+> 📌 *Each line here is a piece of me—written not just in code, but in clarity.These aren’t just quotes—they’re fragments of who I am, written in logic and lived with intent.*
+
+
 
 ## 🌱 What I'm Currently Learning
 
