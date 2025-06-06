@@ -45,6 +45,22 @@ const jakir = {
 
 </div>
 
+## 🛠️ Lines Compiled of My Code & Character
+
+> *“I may not have started with the best, but I’m building something better—line by line, block by block, byte by byte.”*  
+> *“Some chase greatness, I debug my way into it.”*  
+> *“The silence between stammers taught me more about strength than any loud speech ever did.”*  
+> *“I don’t fear starting from scratch—every fresh line is a chance to write a better version of myself.”*  
+> *“If life had a GitHub repo, I’d commit less regret and push more peace.”*  
+> *“My code and I have one thing in common—we both throw errors under pressure.”*  
+> *“I don’t just write programs. I solve puzzles that teach machines—and sometimes myself—how to think better.”*  
+> *“Success isn’t a sprint or a marathon—it’s a recursive function that returns ‘better’ every time I call it.”*  
+> *“Why wait for the perfect plan when you can prototype your potential today?”*  
+> *“I’d rather build a solution and fail than spend forever debugging a fear I never ran.”*  
+
+<br>
+
+> 📌 *Each line here is a piece of me—written not just in code, but in clarity.*
 
 ## 🌱 What I'm Currently Learning
 
