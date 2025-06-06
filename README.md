@@ -24,14 +24,15 @@
 const jakir = {
     code: ["Java", "Python", "JavaScript", "HTML/CSS"],
     technologies: {
-        frontEnd: ["React", "React Native", "Tailwind CSS"],
-        backEnd: ["Node.js", "MongoDB", "MySQL"],
+        frontEnd: ["React", "Tailwind CSS"],
+        backEnd: ["Node.js", "MongoDB", "MySQL", "Oracle"], 
         aiMl: ["TensorFlow", "Scikit-learn", "OpenCV", "Pandas"],
         cloud: ["AWS"],
-        tools: ["Git", "Oracle"]
+        tools: ["Git"]
     },
     currentFocus: "Building AI-powered applications"
 };
+
 ```
 
 ## 😄 Fun Fact about me 
