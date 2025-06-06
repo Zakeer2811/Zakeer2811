@@ -96,7 +96,7 @@ const jakir = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Zakeer2811&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Zakeer2811&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1&column=3" />
 </div>
 
 ## 📈 Contribution Graph
