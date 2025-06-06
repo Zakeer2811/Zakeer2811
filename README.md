@@ -30,10 +30,12 @@ const jakir = {
         cloud: ["AWS"],
         tools: ["Git", "Oracle"]
     },
-    currentFocus: "Building AI-powered applications",
-    funFact: "My LeetCode problems have better memory than I do — they remember me struggling last time! 😅"
+    currentFocus: "Building AI-powered applications"
 };
 ```
+
+### ⚡ Fun Fact
+> My LeetCode problems have better memory than I do — they remember me struggling last time! 😅
 
 ## 🌱 What I'm Currently Learning
 
