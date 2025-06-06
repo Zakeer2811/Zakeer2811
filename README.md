@@ -69,8 +69,8 @@ const jakir = {
 
 ## 🌐 Connect With Me
 
+<h3 align="center">Connect with me:</h3>
 <div align="center">
-  
   <a href="https://kaggle.com/shaikmohammadjakir" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle" />
   </a>
@@ -86,8 +86,8 @@ const jakir = {
   <a href="https://instagram.com/jakir_._shaik" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  
 </div>
+
 
 ## 📊 GitHub Analytics
 
