@@ -91,13 +91,8 @@ const jakir = {
     <a href="https://auth.geeksforgeeks.org/user/jakir28iyas" target="_blank" rel="noopener noreferrer">
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks - jakir28iyas" height="40" width="50" />
     </a>
-    &nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/mohammad-jakir-shaik/" target="_blank" rel="noopener noreferrer">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="LinkedIn - Mohammad-Jakir-Shaik" height="40" width="50" />
-    </a>
   </p>
 </div>
-
 
 ## 📊 GitHub Analytics
 
