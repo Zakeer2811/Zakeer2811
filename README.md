@@ -106,13 +106,7 @@ const jakir = {
   <img src="https://leetcard.jacoblin.cool/MD__JAKIR1128__?theme=dark&font=Nunito&ext=heatmap" alt="LeetCode Stats"/>
 </div>
 
-<div align="center">
-  <img src="https://leetcode-stats-six.vercel.app/api?username=MD__JAKIR1128__&theme=dark" alt="LeetCode Problem Stats"/>
-</div>
 
-<div align="center">
-  <img src="https://leetcode.card/MD__JAKIR1128__?theme=dark&font=source_code_pro&extension=null" alt="LeetCode Stats Card"/>
-</div>
 
 ## 🏅 LeetCode Badges
 
@@ -120,9 +114,7 @@ const jakir = {
   <img src="https://leetcode-badge-showcase.vercel.app/api?username=MD__JAKIR1128__&theme=dark" alt="LeetCode Badges"/>
 </div>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge-api.vercel.app%2Fapi%2Fheatmap%3Fusername%3DMD__JAKIR1128__&logo=leetcode&logoColor=yellow" alt="LeetCode user MD__JAKIR1128__"/>
-</div>
+
 
 ## 🏆 GitHub Trophies
 
