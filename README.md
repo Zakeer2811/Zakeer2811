@@ -107,11 +107,11 @@ const jakir = {
 </div>
 
 <div align="center">
-  <img src="https://leetcode-badge-showcase.vercel.app/api?username=MD__JAKIR1128__&theme=dark" alt="LeetCode Badges"/>
+  <img src="https://leetcode.card/MD__JAKIR1128__?theme=dark&font=baloo&ext=heatmap" alt="LeetCode Problem Stats"/>
 </div>
 
 <div align="center">
-  <img src="https://leetcode.badge.xyli.tech/MD__JAKIR1128__" alt="LeetCode Badge"/>
+  <img src="https://leetcode-badge.vercel.app/api/MD__JAKIR1128__" alt="LeetCode Worth Badge"/>
 </div>
 
 ## 🏆 GitHub Trophies
