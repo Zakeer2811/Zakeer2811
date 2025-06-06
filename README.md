@@ -1,31 +1,120 @@
-[![MasterHead](https://media.tenor.com/DimzPZMypFcAAAAM/laptop.gif)](https://Zakeer2811.io)
-<h1 align="center">Hi 👋, I'm SHAIK MOHAMMAD JAKIR</h1>
-<h3 align="center">🚀 Passionate AI/ML enthusiast | 📊 Problem Solver | 💻 DSA & Web Dev Explorer Learning by building | On a mission to turn ideas into impact ✨</h3>
+# 👋 Hello, I'm SHAIK MOHAMMAD JAKIR
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Zakeer2811&label=Profile%20views&color=0e75b6&style=flat" alt="Zakeer2811" /> </p>
+<div align="center">
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=AI%2FML+Enthusiast+%F0%9F%A4%96;Problem+Solver+%F0%9F%A7%A9;Full+Stack+Developer+%F0%9F%92%BB;Always+Learning+%F0%9F%9A%80)](https://git.io/typing-svg)
+  
+  <img src="https://media.tenor.com/DimzPZMypFcAAAAM/laptop.gif" width="300" height="200" alt="Coding GIF"/>
+  
+  ### 🚀 Passionate about turning ideas into impact ✨
+  
+  <p align="center">
+    <a href="https://www.jakirshaik.me/portfolio/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white"/></a>
+    <a href="mailto:jakir28.shaik@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+    <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  </p>
+  
+</div>
 
-- 🌱 I’m currently learning **web developemt,DSA,AI&ML**
+---
 
-- 👨‍💻 All of my projects are available at [https://www.jakirshaik.me/portfolio/](https://www.jakirshaik.me/portfolio/)
+## 🎯 About Me
 
-- 📫 How to reach me **jakir28.shaik@gmail.com**
+```typescript
+const jakir = {
+    code: ["Java", "Python", "JavaScript", "HTML/CSS"],
+    technologies: {
+        frontEnd: ["React", "React Native", "Tailwind CSS"],
+        backEnd: ["Node.js", "MongoDB", "MySQL"],
+        aiMl: ["TensorFlow", "Scikit-learn", "OpenCV", "Pandas"],
+        cloud: ["AWS"],
+        tools: ["Git", "Oracle"]
+    },
+    currentFocus: "Building AI-powered applications",
+    funFact: "My LeetCode problems have better memory than I do — they remember me struggling last time! 😅"
+};
+```
 
-- ⚡ Fun fact **My LeetCode problems have better memory than I do — they remember me struggling last time.**
+## 🌱 What I'm Currently Learning
 
-<h3 align="left">Connect with me:</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/Web_Development-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Data_Structures-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI_&_ML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+</div>
+
+## 🛠️ Tech Stack
+
+### Languages
 <p align="left">
-<a href="https://kaggle.com/shaikmohammadjakir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="shaikmohammadjakir" height="30" width="40" /></a>
-<a href="https://instagram.com/jakir_._shaik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jakir_._shaik" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/MD__JAKIR1128__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="md__jakir1128__" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@jakir28_shaik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@jakir28_shaik" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/jakir28iyas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="jakir28iyas" height="30" width="40" /></a>
+  <img src="https://skillicons.dev/icons?i=java,python,js,html,css" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+### Frameworks & Libraries
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,tailwind,tensorflow,opencv" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Zakeer2811&show_icons=true&locale=en&layout=compact" alt="zakeer2811" /></p>
+### Databases & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,aws" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Zakeer2811&show_icons=true&locale=en" alt="zakeer2811" /></p>
+## 🌐 Connect With Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Zakeer2811&" alt="zakeer2811" /></p>
+<div align="center">
+  
+  <a href="https://kaggle.com/shaikmohammadjakir" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle" />
+  </a>
+  <a href="https://leetcode.com/u/MD__JAKIR1128__" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="https://www.hackerearth.com/@jakir28_shaik" target="_blank">
+    <img src="https://img.shields.io/badge/HackerEarth-2C3E50?style=for-the-badge&logo=HackerEarth&logoColor=Blue" alt="HackerEarth" />
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/jakir28iyas" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
+  </a>
+  <a href="https://instagram.com/jakir_._shaik" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  
+</div>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Zakeer2811&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zakeer2811&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zakeer2811&theme=tokyonight" alt="GitHub Streak" />
+</div>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Zakeer2811&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1" />
+</div>
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zakeer2811&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" />
+</div>
+
+---
+
+<div align="center">
+  
+  ### ✨ "Code is like humor. When you have to explain it, it's bad." ✨
+  
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=Zakeer2811&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  </p>
+  
+  **Thanks for visiting! Let's connect and build something amazing together! 🚀**
+  
+</div>
