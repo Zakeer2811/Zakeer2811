@@ -70,7 +70,7 @@ const jakir = {
 ## 🌐 Connect With Me
 
 <div align="center">
-  <h3>Let's Connect and Build Something Amazing Together!</h3>
+  <h3>Let's Connect here are my some social links </h3>
   <p>
     <a href="https://kaggle.com/shaikmohammadjakir" target="_blank" rel="noopener noreferrer">
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle - shaikmohammadjakir" height="40" width="50" />
@@ -91,8 +91,13 @@ const jakir = {
     <a href="https://auth.geeksforgeeks.org/user/jakir28iyas" target="_blank" rel="noopener noreferrer">
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks - jakir28iyas" height="40" width="50" />
     </a>
+    &nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/mohammad-jakir-shaik/" target="_blank" rel="noopener noreferrer">
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="LinkedIn - Mohammad-Jakir-Shaik" height="40" width="50" />
+    </a>
   </p>
 </div>
+
 
 ## 📊 GitHub Analytics
 
@@ -106,14 +111,15 @@ const jakir = {
 </div>
 
 ## 💻 LeetCode Stats
-
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/MD__JAKIR1128__?theme=dark&font=Nunito&ext=heatmap" alt="LeetCode Stats"/>
 </div>
 
+## 🏅 LeetCode Badges
 <div align="center">
-  <img src="https://leetcode-worth.vercel.app/MD__JAKIR1128__" alt="LeetCode Problem Stats"/>
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=MD__JAKIR1128__&theme=dark" alt="LeetCode Badges"/>
 </div>
+
 
 ## 🏆 GitHub Trophies
 
