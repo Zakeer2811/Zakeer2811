@@ -69,23 +69,25 @@ const jakir = {
 
 ## 🌐 Connect With Me
 
-<h3 align="center">Connect with me:</h3>
 <div align="center">
-  <a href="https://kaggle.com/shaikmohammadjakir" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle" />
-  </a>
-  <a href="https://leetcode.com/u/MD__JAKIR1128__" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" />
-  </a>
-  <a href="https://www.hackerearth.com/@jakir28_shaik" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/HackerEarth-2C3E50?style=for-the-badge&logo=HackerEarth&logoColor=Blue" alt="HackerEarth" />
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/jakir28iyas" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
-  </a>
-  <a href="https://instagram.com/jakir_._shaik" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
+  <h3>Connect with me:</h3>
+  <p>
+    <a href="https://kaggle.com/shaikmohammadjakir" target="blank">
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="shaikmohammadjakir" height="30" width="40" />
+    </a>
+    <a href="https://instagram.com/jakir_._shaik" target="blank">
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jakir_._shaik" height="30" width="40" />
+    </a>
+    <a href="https://leetcode.com/u/MD__JAKIR1128__" target="blank">
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="md__jakir1128__" height="30" width="40" />
+    </a>
+    <a href="https://www.hackerearth.com/@jakir28_shaik" target="blank">
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@jakir28_shaik" height="30" width="40" />
+    </a>
+    <a href="https://auth.geeksforgeeks.org/user/jakir28iyas" target="blank">
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="jakir28iyas" height="30" width="40" />
+    </a>
+  </p>
 </div>
 
 
