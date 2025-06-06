@@ -34,13 +34,16 @@ const jakir = {
 };
 ```
 
-## 😄 Fun Fact
+## 😄 Fun Fact about me 
 
 <div align="center">
-  
-> **My LeetCode problems have better memory than I do — they remember me struggling last time!** 😅
+
+> **Always learning, always coding, and forever debugging my LeetCode memory...**  
+>  
+> *My LeetCode problems have better memory than I do — they remember me struggling last time!* 😅
 
 </div>
+
 
 ## 🌱 What I'm Currently Learning
 
@@ -70,7 +73,7 @@ const jakir = {
 ## 🌐 Connect With Me
 
 <div align="center">
-  <h3>Let's Connect here are my some social links </h3>
+  <h3>👋 Wanna stalk me and my coding journey? Connect with me here!🤓 </h3>
   <p>
     <a href="https://kaggle.com/shaikmohammadjakir" target="_blank" rel="noopener noreferrer">
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle - shaikmohammadjakir" height="40" width="50" />
@@ -110,10 +113,7 @@ const jakir = {
   <img src="https://leetcard.jacoblin.cool/MD__JAKIR1128__?theme=dark&font=Nunito&ext=heatmap" alt="LeetCode Stats"/>
 </div>
 
-## 🏅 LeetCode Badges
-<div align="center">
-  <img src="https://leetcode-badge-showcase.vercel.app/api?username=MD__JAKIR1128__&theme=dark" alt="LeetCode Badges"/>
-</div>
+
 
 
 ## 🏆 GitHub Trophies
