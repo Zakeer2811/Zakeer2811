@@ -70,26 +70,29 @@ const jakir = {
 ## 🌐 Connect With Me
 
 <div align="center">
-  <h3>Connect with me:</h3>
+  <h3>Let's Connect and Build Something Amazing Together!</h3>
   <p>
-    <a href="https://kaggle.com/shaikmohammadjakir" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="shaikmohammadjakir" height="30" width="40" />
+    <a href="https://kaggle.com/shaikmohammadjakir" target="_blank" rel="noopener noreferrer">
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle - shaikmohammadjakir" height="40" width="50" />
     </a>
-    <a href="https://instagram.com/jakir_._shaik" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jakir_._shaik" height="30" width="40" />
+    &nbsp;&nbsp;
+    <a href="https://instagram.com/jakir_._shaik" target="_blank" rel="noopener noreferrer">
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram - jakir_._shaik" height="40" width="50" />
     </a>
-    <a href="https://leetcode.com/u/MD__JAKIR1128__" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="md__jakir1128__" height="30" width="40" />
+    &nbsp;&nbsp;
+    <a href="https://leetcode.com/u/MD__JAKIR1128__" target="_blank" rel="noopener noreferrer">
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode - MD__JAKIR1128__" height="40" width="50" />
     </a>
-    <a href="https://www.hackerearth.com/@jakir28_shaik" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@jakir28_shaik" height="30" width="40" />
+    &nbsp;&nbsp;
+    <a href="https://www.hackerrank.com/jakir28_shaik" target="_blank" rel="noopener noreferrer">
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank - jakir28_shaik" height="40" width="50" />
     </a>
-    <a href="https://auth.geeksforgeeks.org/user/jakir28iyas" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="jakir28iyas" height="30" width="40" />
+    &nbsp;&nbsp;
+    <a href="https://auth.geeksforgeeks.org/user/jakir28iyas" target="_blank" rel="noopener noreferrer">
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks - jakir28iyas" height="40" width="50" />
     </a>
   </p>
 </div>
-
 
 ## 📊 GitHub Analytics
 
@@ -108,15 +111,9 @@ const jakir = {
   <img src="https://leetcard.jacoblin.cool/MD__JAKIR1128__?theme=dark&font=Nunito&ext=heatmap" alt="LeetCode Stats"/>
 </div>
 
-
-
-## 🏅 LeetCode Badges
-
 <div align="center">
-  <img src="https://leetcode-badge-showcase.vercel.app/api?username=MD__JAKIR1128__&theme=dark" alt="LeetCode Badges"/>
+  <img src="https://leetcode-worth.vercel.app/MD__JAKIR1128__" alt="LeetCode Problem Stats"/>
 </div>
-
-
 
 ## 🏆 GitHub Trophies
 
