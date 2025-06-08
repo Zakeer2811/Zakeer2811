@@ -1,7 +1,9 @@
 # 👋 Hello, I'm SHAIK MOHAMMAD JAKIR
 
 <div align="center">
-  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6EF3C5,100:1D1CE5&height=170&section=header&text=SHAIK%20MOHAMMAD%20JAKIR&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+
+
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=AI%2FML+Enthusiast+%F0%9F%A4%96;Problem+Solver+%F0%9F%A7%A9;Full+Stack+Developer+%F0%9F%92%BB;Always+Learning+%F0%9F%9A%80)](https://git.io/typing-svg)
   
   <img src="https://media.tenor.com/DimzPZMypFcAAAAM/laptop.gif" width="300" height="200" alt="Coding GIF"/>
@@ -113,6 +115,7 @@ const jakir = {
 
 ## 📊 GitHub Analytics
 
+
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Zakeer2811&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zakeer2811&layout=compact&langs_count=8&theme=tokyonight"/>
@@ -137,10 +140,11 @@ const jakir = {
 </div>
 
 ## 📈 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zakeer2811&theme=react-dark&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=58A6FF&area=true&hide_border=true&custom_title=MOHAMMAD%20JAKIR%20SHAIK's%20Contribution%20Graph" alt="Contribution Graph" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zakeer2811&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" />
-</div>
+
 
 ---
 
@@ -163,3 +167,7 @@ const jakir = {
     alt="GitHub Snake (Dark)"
   />
 </p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6EF3C5,100:1D1CE5&height=100&section=footer&animation=fadeIn" width="100%"/>
+</p>
+
