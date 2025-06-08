@@ -117,12 +117,11 @@ const jakir = {
 
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Zakeer2811&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zakeer2811&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Zakeer2811&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=false&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Zakeer2811&layout=compact&langs_count=12&theme=react&hide_border=false&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
 </div>
-
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zakeer2811&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zakeer2811&theme=highcontrast&hide_border=false&background=0D1117&stroke=58A6FF&ring=1F6FEB&fire=58A6FF&currStreakLabel=C9D1D9&sideLabels=C9D1D9&currStreakNum=58A6FF&sideNums=58A6FF&dates=8B949E" alt="GitHub Streak" />
 </div>
 
 ## 💻 LeetCode Stats
@@ -136,7 +135,7 @@ const jakir = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Zakeer2811&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1&column=3" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Zakeer2811&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1&column=3" />
 </div>
 
 ## 📈 Contribution Graph
