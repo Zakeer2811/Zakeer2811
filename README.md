@@ -117,7 +117,7 @@ const jakir = {
 
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Zakeer2811&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=false&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Zakeer2811&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9"/>
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Zakeer2811&layout=compact&langs_count=12&theme=react&hide_border=false&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
 </div>
 <div align="center">
