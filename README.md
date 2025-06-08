@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6EF3C5,100:1D1CE5&height=170&section=header&text=SHAIK%20MOHAMMAD%20JAKIR&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=AI%2FML+Enthusiast+%F0%9F%A4%96;Problem+Solver+%F0%9F%A7%A9;Full+Stack+Developer+%F0%9F%92%BB;Always+Learning+%F0%9F%9A%80)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=AI%2FML+Enthusiast+%F0%9F%A4%96;Problem+Solver+%F0%9F%A7%A9;Web+Developement+%F0%9F%92%BB;Always+Learning+%F0%9F%9A%80)](https://git.io/typing-svg)
   
   <img src="https://media.tenor.com/DimzPZMypFcAAAAM/laptop.gif" width="300" height="200" alt="Coding GIF"/>
   
@@ -148,16 +148,19 @@ const jakir = {
 ---
 
 <div align="center">
-  
-  ### ✨ "Code is like humor. When you have to explain it, it's bad." ✨
-  
+  <h3>✨ "Code is like humor. When you have to explain it, it's bad." ✨</h3>
   <p>
     <img src="https://komarev.com/ghpvc/?username=Zakeer2811&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   </p>
-  
-  **Thanks for visiting! Let's connect and build something amazing together! 🚀**
-  
+  <h3>🧠 <i>Oh, You Like this? Wanna Copy This?</i></h3>
+  <blockquote>
+    ⚠️ <i>Steal the vibe, not the code, concept, or creativity. Ask before you borrow.</i> 😎<br>
+    📬 <i>Inspired? Cool. Reach me out.</i> 💬<br>
+    🤝 <i>Inspiration is cool. Duplication? Not so much.</i>
+  </blockquote>
+  <strong>Thanks for visiting! Let's connect and build something amazing together! 🚀</strong>
 </div>
+
 
 
 <p align="center">
