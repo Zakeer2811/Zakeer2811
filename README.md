@@ -151,6 +151,7 @@ const jakir = {
   <h3>✨ "Code is like humor. When you have to explain it, it's bad." ✨</h3>
   <p>
     <img src="https://komarev.com/ghpvc/?username=Zakeer2811&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+    <a href="https://u8views.com/github/Zakeer2811"><img src="https://u8views.com/api/v1/github/profiles/116374751/views/day-week-month-total-count.svg"></a>
   </p>
   <h3>🧠 <i>Oh, You Like this? Wanna Copy This?</i></h3>
   <blockquote>
